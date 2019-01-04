@@ -18,4 +18,4 @@ Website to generate a radiant background and add it to your own CSS file.
 ## Used Technologies
 * HTML
 * CSS
-* JavaScript (DOM manipulation)
+* JavaScript - DOM (Document Object Model) manipulation
