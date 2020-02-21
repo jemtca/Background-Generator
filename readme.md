@@ -15,7 +15,7 @@ Website to generate a radiant background and add it to your own CSS file.
 ## Screenshot
 ![](https://github.com/jemtca/Background-Generator/blob/master/screenshots/Background%20generator.gif)
 
-## Used Technologies
+## Technologies Used
 * HTML
 * CSS
 * JavaScript - DOM (Document Object Model) manipulation.
