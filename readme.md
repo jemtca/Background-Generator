@@ -13,9 +13,8 @@ Website to generate a radiant background and add it to your own CSS file.
     * Added eight different buttons to change the direction of the gradient.
 
 ## Screenshot
-![](https://github.com/jemtca/Background-Generator/blob/master/screenshots/Background%20generator.gif)
+![](https://github.com/jemtca/Background-Generator/blob/master/screenshots/backgroundgenerator.gif)
 
 ## Technologies Used
-* HTML.
-* CSS.
-* JavaScript - DOM (Document Object Model) manipulation.
+* HTML, CSS, JavaScript - DOM (Document Object Model) manipulation.
+* Cloud service: [GitHub Pages](https://pages.github.com/).
